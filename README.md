@@ -99,7 +99,6 @@ Katkılarınızı memnuniyetle karşılıyoruz.
 Bu proje depo içerisinde bulunan LICENSE dosyası kapsamında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
-
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
